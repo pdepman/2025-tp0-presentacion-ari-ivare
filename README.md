@@ -1,5 +1,7 @@
 # Presentación :handshake:
 
+![foto personal](./assets/foto_presentacion.png)
+
 ## Sobre mí
 Me llamo **Ariel Iván Arellano**.
 Legajo: 176.214-0
