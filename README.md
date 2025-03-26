@@ -4,8 +4,8 @@
 
 ## Sobre mí
 Me llamo **Ariel Iván Arellano**.
-Legajo: 176.214-0
-Técnico en computación del secundario, Estudiando te Ingeniería en Sistemas, DevOps. Agnóstico del `git rebase`. Team invierno y dark theme. Helado de pistacho el mejor sabor.
+Legajo: 176.214-0.
+Técnico en computación del secundario, Estudiante de Ingeniería en Sistemas, DevOps. Agnóstico del `git rebase`. Team invierno y dark theme. Helado de pistacho el mejor sabor.
 
 ### Hobbies 
 50% Otaku
