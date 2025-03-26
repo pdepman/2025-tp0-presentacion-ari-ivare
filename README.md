@@ -3,7 +3,7 @@
 ## Sobre mí
 Me llamo **Ariel Iván Arellano**.
 Legajo: 176.214-0
-Técnico en computación del secundario, Estudiando te Ingeniería en Sistemas, DevOps. Agnóstico del `git rebase`.
+Técnico en computación del secundario, Estudiando te Ingeniería en Sistemas, DevOps. Agnóstico del `git rebase`. Team invierno y dark theme. Helado de pistacho.
 
 ### Hobbies 
 50% Otaku
