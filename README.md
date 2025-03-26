@@ -1,6 +1,6 @@
 # Presentación :handshake:
 
-![foto personal](./assets/foto_presentacion.png)
+![foto personal](./assets/foto_presentacion.webp)
 
 ## Sobre mí
 Me llamo **Ariel Iván Arellano**.
